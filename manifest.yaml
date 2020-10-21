@@ -1,0 +1,6 @@
+---
+applications:
+- name: mispensamientos
+  random-route: true
+  path: mispensamientos
+  memory: 128M

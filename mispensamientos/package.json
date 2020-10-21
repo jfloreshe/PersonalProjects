@@ -1,0 +1,15 @@
+{
+  "name": "mispensamientos",
+  "version": "0.0.1",
+  "description": "Escribe todos tus pensamientos para poder trabajar en ellos",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jefferson Flores Herrera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
